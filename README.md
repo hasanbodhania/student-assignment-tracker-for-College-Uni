@@ -61,9 +61,3 @@ with persistent data storage and automatic deadline tracking.
 <p><strong>Hasan Bodhania</strong><br>
 Email: hasanbodhania@gmail.com<br>
 Phone: 07878 253584</p>>
-
-<h2>Author</h2>
-<p>
-Developed as a personal portfolio project to demonstrate software engineering fundamentals and practical
-problem-solving skills.
-</p>
