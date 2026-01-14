@@ -60,4 +60,4 @@ with persistent data storage and automatic deadline tracking.
 <h2>Author</h2>
 <p><strong>Hasan Bodhania</strong><br>
 Email: hasanbodhania@gmail.com<br>
-Phone: 07878 253584</p>>
+Phone: 07878 253584</p>
